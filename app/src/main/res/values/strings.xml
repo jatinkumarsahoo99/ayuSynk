@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AyuShareIntegrationDemo</string>
+    <string name="client_id_hint">Enter client id</string>
+    <string name="email_id_hint">Enter email id to bypass login</string>
+    <string name="ayuLynk">AyuLynk</string>
+    <string name="ayuSynk">AyuSynk</string>
+    <string name="dongle">AyuDongle</string>
+    <string name="open">Open AyuShare</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="record_share">Record Share</string>
+    <string name="online_streaming">Online Stream</string>
+    <string name="mode">Mode</string>
+    <string name="hide_tab">Hide Patient and Support Tab</string>
+    <string name="hide_option">Hide Navigation Option</string>
+    <string name="deviceType">DeviceType</string>
+    <string name="disable_earphone">Disable Earphone Requirement</string>
+</resources>
